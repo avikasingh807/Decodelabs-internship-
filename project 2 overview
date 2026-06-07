@@ -1,0 +1,23 @@
+project title- Responsive Web Layout
+Description -A responsive web layout is a way of designing web pages so they adapt automatically to different screen sizes and devices—phones, tablets, laptops, and large desktop monitors—without requiring separate versions of the site.
+
+The Core Idea
+
+Instead of setting fixed widths and sizes, responsive layouts use flexible measurements and rules so content can resize, rearrange, and sometimes hide or show elements based on available screen space.
+
+For example:
+
+On a desktop, a page might show:
+
+[Sidebar] [Main Content]
+On a phone, the same page might become:[Main Content]
+[Sidebar]
+how to run commands -ndows
+Open Command Prompt:
+Press Win + R
+Type cmd
+Press Enter
+Run a command:
+dir
+
+Lists files in the current folder.
